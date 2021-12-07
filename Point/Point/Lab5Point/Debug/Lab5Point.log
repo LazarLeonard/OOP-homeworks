@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab5Point.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  circle.cpp
+C:\Users\lazar\Desktop\POO\Point\Point\Lab5Point\circle.cpp(26,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lazar\Desktop\POO\Point\Point\Lab5Point\circle.cpp(30,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  line.cpp
+C:\Users\lazar\Desktop\POO\Point\Point\Lab5Point\line.cpp(16,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  point.cpp
+  rectangle.cpp
+  square.cpp
+  Generating Code...
+  Lab5Point.vcxproj -> C:\Users\lazar\Desktop\POO\Point\Point\Debug\Point.exe
